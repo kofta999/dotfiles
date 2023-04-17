@@ -13,6 +13,7 @@ First time ricing!
 * Shell: [zsh](https://www.zsh.org/)
 * Fetch: [Neofetch](https://github.com/dylanaraps/neofetch)
 * Visualizer: [Cava](https://github.com/karlstav/cava)
+* Theme: [Sunrise Dark](https://www.gnome-look.org/p/1258305), [Birds of paradise](https://gogh-co.github.io/Gogh/)
 
 ## Screenshots
 
@@ -27,3 +28,4 @@ First time ricing!
 ## Credits
 * [LinuxMobile](https://github.com/linuxmobile), I used his catppuccin dots as a base for this rice.
 * [Oman395](https://github.com/Oman395/), for his audio.sh script for showing the current playing song.
+* Rofi custom launchers are from https://github.com/adi1090x/rofi.
