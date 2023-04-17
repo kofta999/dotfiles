@@ -1,0 +1,29 @@
+format = "$all"
+right_format = """$username$directory"""
+
+# Disable the blank line at the start of the prompt
+add_newline = false
+
+[nodejs]
+disabled = true
+
+[line_break]
+disabled = true
+
+[character]
+success_symbol = " [](#FFF9D5)"
+error_symbol = " [](#df5b61)"
+vicmd_symbol = "[  ](#78b892)"
+
+[username]
+
+format = "[](fg:#232526 bg:none)[$user]($style)[](fg:#232526 bg:#232526)[](fg:#573D26 bg:#232526)[](fg:#232526 bg:#573D26)[](fg:#573D26 bg:none) "
+disabled = false
+style_user = "fg:#FFF9D5 bg:#232526"
+show_always = true
+
+[directory]
+format = "[](fg:#232526 bg:none)[$path]($style)[](fg:#232526 bg:#232526)[](fg:#9B6C4A bg:#232526)[](fg:#232526 bg:#9B6C4A)[](fg:#9B6C4A bg:none)"
+style = "fg:#FFF9D5 bg:#232526"
+truncation_length = 3
+truncate_to_repo=false
