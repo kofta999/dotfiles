@@ -14,6 +14,7 @@ First time ricing!
 * Fetch: [Neofetch](https://github.com/dylanaraps/neofetch)
 * Visualizer: [Cava](https://github.com/karlstav/cava)
 * Theme: [Sunrise Dark](https://www.gnome-look.org/p/1258305), [Birds of paradise](https://gogh-co.github.io/Gogh/)
+* Wallpaper: https://www.pixiv.net/en/artworks/104196796
 
 ## Screenshots
 
