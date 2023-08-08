@@ -5,6 +5,10 @@
 ## rxyhn's Z-Shell configuration
 ## https://github.com/rxyhn
 
+## New Terminal Commands
+
+(cat ~/.cache/wal/sequences &)
+
 while read file
 do 
   source "$ZDOTDIR/$file.zsh"

@@ -27,4 +27,5 @@ alias tenshi_pics='wget -ncd -r -P ~/Downloads/Pictures/ -A jpeg,jpg,bmp,gif,png
 alias pubip="curl ifconfig.me && echo"
 alias koftazure="ssh -i /home/kofta/.ssh/id_rsa koftazure@redhatvm"
 alias uzure="ssh -i /home/kofta/.ssh/id_rsa_ubuntu koftazure2@ubuntuvm"
-
+alias mouseled="sudo python ~/shit/g203-led/g203-led.py lightsync solid 000000"
+alias tsdev="npm i @types/node @types/express concurrently nodemon typescript"

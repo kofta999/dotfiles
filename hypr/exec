@@ -8,3 +8,5 @@ exec-once = ~/.config/hypr/.autostart
 exec-once = wl-paste --type text --watch cliphist store #Stores only text data
 exec-once = wl-paste --type image --watch cliphist store #Stores only image data
 exec-once = swayidle -w timeout 300 'swaylock -f -c 000000' timeout 310 'hyprctl dispatch dpms off' resume 'hyprctl dispatch dpms on' before-sleep 'swaylock -f -c 000000'
+exec-once = ~/.config/hypr/initWaybar
+exec-once = ~/.config/hypr/initWallpaper
